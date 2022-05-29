@@ -1,6 +1,6 @@
 {
   "name": "@jan-cli-dev/core",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "jan-cli-dev core",
   "author": "wangkai <50765560@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@jan-cli-dev/utils": "^1.0.5"
+    "@jan-cli-dev/utils": "^1.0.7"
   },
   "gitHead": "5f42f0059e6556ac9e35a31030b5ce9d369f5e10",
   "publishConfig": {
