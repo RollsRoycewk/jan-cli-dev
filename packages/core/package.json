@@ -1,0 +1,22 @@
+{
+  "name": "@jan-cli-dev/core",
+  "version": "1.0.0",
+  "description": "jan-cli-dev core",
+  "author": "wangkai <50765560@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run testing from core\""
+  },
+  "dependencies": {
+    "@jan-cli-dev/utils":"^1.0.0"
+  }
+}
