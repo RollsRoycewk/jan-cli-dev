@@ -1,13 +1,13 @@
 {
   "name": "@jan-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jan-cli-dev core",
   "author": "wangkai <50765560@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "jan-cli-dev":"bin/index.js"
+  "bin": {
+    "jan-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@jan-cli-dev/utils": "^1.0.2"
+    "@jan-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "a702123b2afccac563ca921bdd5a65eba5f5731a"
 }
